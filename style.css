@@ -1676,4 +1676,10 @@ footer::before {
         flex-direction: column;
         gap: 1rem;
     }
+
+}
+
+/* Contact form mobile fix */
+.contact-form {
+    max-width: 100%;
 }
